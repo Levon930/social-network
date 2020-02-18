@@ -1,0 +1,16 @@
+.navBar li{
+    padding: 10px;
+  }
+  .settings{
+    margin-top: 30px;
+ 
+    }
+    .navBar{
+        grid-area: l;
+        background-color: gray;
+        list-style: none;
+        font-weight: 800;
+        color: white;
+        font-size: 20px;
+       margin-top: -10px;
+        }
