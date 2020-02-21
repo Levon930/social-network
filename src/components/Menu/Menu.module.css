@@ -1,0 +1,22 @@
+.allMenu li {
+    padding: 10px;
+   
+  }
+  .allMenu{
+list-style-type: none;
+position: fixed;
+  }
+  .settings{
+    margin-top: 30px;
+ 
+    }
+    .navBar{
+        grid-area: l;
+        background-color: gray;
+       
+        font-weight: 800;
+        color: white;
+        font-size: 20px;
+       margin-top: -10px;
+    
+    }

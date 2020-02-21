@@ -1,0 +1,16 @@
+.posts p{
+margin-left: 100px;
+}
+.yourPost{
+    width:90% ;
+    display: block;
+    margin: 0 auto;
+}
+.send{
+    display: block;
+    margin-left: 950px;
+    margin-top: 10px;
+    width: 100px;
+    background-color: aqua;
+    padding: 5px;
+}
